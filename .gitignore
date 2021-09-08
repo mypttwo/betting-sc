@@ -1,0 +1,9 @@
+node_modules/
+build/
+.secret
+abi.js
+/contracts/artifacts/
+/contracts/.deps/
+/contracts/tests
+/contracts_backup/
+
